@@ -118,22 +118,18 @@ SOFTWARE.
 [the78mole]: https://github.com/the78mole
 [github-actions-shield]: https://github.com/the78mole/addon-rentman/workflows/CI/badge.svg
 [github-actions]: https://github.com/the78mole/addon-rentman/actions
-
 [github-sponsors-shield-frenck]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors-shield-the78mole]: https://the78mole.de/wp-content/uploads/2021/10/button_sponsor_the78mole.png
 [github-sponsors-frenck]: https://github.com/sponsors/frenck
 [github-sponsors-the78mole]: https://github.com/sponsors/the78mole
-
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/the78mole/addon-rentman/issues
 [license-shield]: https://img.shields.io/github/license/the78mole/addon-rentman.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
-
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project--stage-development-red.svg
 [reddit]: https://reddit.com/r/homeassistant
 [releases-shield]: https://img.shields.io/github/release/the78mole/addon-rentman.svg
 [releases]: https://github.com/the78mole/addon-rentman/releases
-
 [repository]: https://github.com/hassio-addons/repository
